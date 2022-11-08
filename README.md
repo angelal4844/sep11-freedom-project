@@ -5,7 +5,7 @@ by Angela Lu
 The "Freedom Project" for SEP11 is all about Javascript. The purpose of this blog is to X.
 
 ## Content
-For my project, I am making a adventure game. This blog will walk through my process of independently studying Javascript in order to make a adventure game.
+For my project, I am making a adventure game. This blog will walk through my process of independently studying X in order to make X.
 
 ## Links
 
