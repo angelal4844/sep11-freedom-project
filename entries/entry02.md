@@ -20,7 +20,8 @@ const iceCream = add ([
 * `text(" ")` -> Helps write a text 
 * `origin("center")` -> Starts at the topleft 
 * `rotate()` -> Helps make the sprite rotate 
-In code.cs50.io, I created a README.md to plan out what I want to include in my game.
+
+* In code.cs50.io, I created a README.md to plan out what I want to include in my game.
 ``` 
 - 3 levels -> Easy, Hard, Hardest (addLevel ([]))
 - 3 sprite -> (ice cream, tree, block)
