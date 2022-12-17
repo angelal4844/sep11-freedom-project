@@ -24,7 +24,7 @@ const iceCream = add ([
 * In code.cs50.io, I created a README.md to plan out what I want to include in my game.
 ``` 
 - 3 levels -> Easy, Hard, Hardest (addLevel ([]))
-- 3 sprite -> (ice cream, tree, block)
+- 4 sprite -> (ice cream, tree, block, door)
 - door = ^
 - tree = $
 - block ==
