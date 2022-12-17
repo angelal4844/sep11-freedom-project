@@ -1,7 +1,7 @@
 # Entry 2 (Tinkering with Kaboom.js Day 2)
 ##### 12/19/2022
 
-The tool I am going to use for my Freedom Project is Kaboom.js. These few weeks, I was tinkering with Kaboom.js in code.cs50.io and replit. I learned about how to load a sprite, `text(" ")`,`addLevel ([])`, `add[]` and many more. These few weeks, my goal was to plan out what my game will look like and start building my game. During the winter break I'm going to finish making my level for hard and hardest and learn about events, where it helps make the game interactive.  
+The tool I am going to use for my Freedom Project is Kaboom.js. These few weeks, I was tinkering with Kaboom.js in code.cs50.io and replit. I learned about how to load a sprite, `text(" ")`,`addLevel ([])`, `add[]` and many more. These few weeks, my goal was to pratice what I learned in Kaboom.js by creating a game. During the winter break I'm going to finish making my level for hard and hardest and learn about events, where it helps make the game interactive.  
 
 ### Kaboom.js 
 * `sprite ("sprite name")` -> Helps call a sprite from loadSprite.
