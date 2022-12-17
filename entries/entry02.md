@@ -71,7 +71,7 @@ const blockSprite = add ([
     
 ])
 ```
-After I finish calling the sprite, I started creating my map using `addLevel([])`. 
+After I finish calling the sprite, I started creating my map using `addLevel([])`. I learned that in `addLevel([])`, `"    "` the quotation marks is very important when drawing the map because if you forgot one of the quotation mark, the code would not work.
 ``` JS
 addLevel([
     (level = easy)
@@ -103,6 +103,16 @@ addLevel([
     ]
 ```
 When I finish making my level 1 map, I inspect it using http-server and it worked! 
+### Takeaways
+* If you are adding a list inside of a variable. REMEMBER: add a comma after each code
+* Try inspecting your code using http-server to see if the code works
+* Ask questions on slack if you are confused
+
+### EDP
+Last blog, I was in stage 1, define the problem and stage 2, research the problem. I am currently in stage 2, research the problem. These few weeks, I was tinkering with Kaboom.js In addition, I was trying out and praticing how to use the code in code.cs50.io.
+
+### Skills
+The skills I learned is how to learn, debugging and creativity. During these few weeks, one skill I learned is how to learn. I learned how to use `addLevel ([])`, `add ([])`, `pos()` and many more. In addition, another skill I learned is debugging. During these few weeks, I was trying out different codes when the code is not working and looking at the playground in Kaboom.js to see how the code works. The skill I also learned is creativity. When I was praticing and trying out the code, I thought of different ideas of what I want my game to be. 
 
 
 [Previous](entry01.md) | [Next](entry03.md)
