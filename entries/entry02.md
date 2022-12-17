@@ -36,7 +36,7 @@ loadSprite ("tree", "js/classwork/sandbox/img/tree.png");
 loadSprite ("block", "js/classwork/sandbox/img/block.png");
 loadSprite ("door", "js/classwork/sandbox/img/door.png");
 ``` 
-When I inspect it using http-server, it said that the sprite was not found. I looked back at my code and saw that the pictures were not inside the img folder. After, I put the pictures inside the img folder, I inspect it again but it was still not working. I was wondering that maybe I was in the wrong folder. So, I tried removing `js/classwork/sandbox/` inside of the loadSprite and it worked. 
+When I inspect it using http-server, it said that the sprite was not found. I looked back at my code and saw that the pictures were not inside the img folder. After, I put the pictures inside the img folder, I inspect it again but it was still not working. I was wondering that maybe it was in the wrong folder. So, I tried removing `js/classwork/sandbox/` inside of the loadSprite and it worked. 
 ```JS
 loadSprite ("icecream", "img/ice-cream.png");
 loadSprite ("tree", "img/tree.png");
