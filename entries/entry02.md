@@ -14,12 +14,12 @@ const iceCream = add ([
     sprite ("icecream")
 ]);
 ```
-* `add([])` -> Helps add a sprite,  
-* `pos()` -> The position you want 
-* `addLevel ([])` -> Helps create 
-* `text(" ")` -> 
-* `origin("center")` -> Helps start at the topleft
-* `rotate()` -> Helps make the sprite rotate
+* `add([])` -> Helps add one or more components in a variable
+* `pos()` -> Helps change where you want your sprite to be located 
+* `addLevel ([])` -> Helps create a map or level
+* `text(" ")` -> Helps write a text 
+* `origin("center")` -> Starts at the topleft 
+* `rotate()` -> Helps make the sprite rotate 
 In code.cs50.io, I created a README.md to plan out what I want to include in my game.
 ``` 
 - 3 levels -> Easy, Hard, Hardest (addLevel ([]))
@@ -109,7 +109,7 @@ When I finish making my level 1 map, I inspect it using http-server and it worke
 * Ask questions on slack if you are confused
 
 ### EDP
-Last blog, I was in stage 1, define the problem and stage 2, research the problem. I am currently in stage 2, research the problem. These few weeks, I was tinkering with Kaboom.js In addition, I was trying out and praticing how to use the code in code.cs50.io.
+Last blog, I was in stage 1, define the problem and stage 2, research the problem. I am now currently in stage 2, research the problem. Last blog, I was choosing my freedom project tool and my topic for my game. These few weeks, I was tinkering with Kaboom.js and trying out different code. In addition, I created a game to that had help me pratice how to use the different components I learned in Kaboom.js.
 
 ### Skills
 The skills I learned is how to learn, debugging and creativity. During these few weeks, one skill I learned is how to learn. I learned how to use `addLevel ([])`, `add ([])`, `pos()` and many more. In addition, another skill I learned is debugging. During these few weeks, I was trying out different codes when the code is not working and looking at the playground in Kaboom.js to see how the code works. The skill I also learned is creativity. When I was praticing and trying out the code, I thought of different ideas of what I want my game to be. 
