@@ -28,7 +28,7 @@ When I run the game, the mushrooms were moving in different places.
 
 (Second Time) </br>
 
-<img width="616" alt="Screen Shot 2023-02-12 at 2 52 43 PM" src="https://user-images.githubusercontent.com/91750609/218362951-dd4cb0f6-4389-4a38-a009-1fdb60bebd8c.png">
+<img width="616" alt="Screen Shot 2023-02-12 at 2 52 43 PM" src="https://user-images.githubusercontent.com/91750609/218362951-dd4cb0f6-4389-4a38-a009-1fdb60bebd8c.png"> </br>
 
 Then, I tried using `onKeyDown()`
 ``` JS
@@ -60,9 +60,9 @@ onClick(("door") => go("game"))
 ```
 In this code, when you click on door, it goes back to the first level.
 ## Skills 
-Some skills I learned is debugging, problem decomposition, and time management.
+One skill I learn is debugging. When I was making my sprite interactive, my `onKeyDown()` wasn't working because my tree was not defined. In addition, I looked at different examples and try tinkering on my own and found out that you need to add the sprite before using `onKeyDown()`. Another skill I learn is problem decomposition. When I was making the game, I plan out what I want to make every week. Lastly, I also learn time management. These few weeks, I was tinkering and working on 2 events on kaboomjs every week.
 ## EDP
-
+Last blog, I was in stage 2, research the problem. This blog, I am still on stage 2, research the problem. These few weeks, I was tinkering with kaboomjs and learned different events in kaboomjs like `onKeyPress()`, `onKeyDown()`, and many more. In addition, last blog, I created a easy level for the game. This blog, I used different events to make the sprite interactive. 
 
 
 [Previous](entry02.md) | [Next](entry04.md)
