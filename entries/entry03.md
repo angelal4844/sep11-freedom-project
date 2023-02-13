@@ -6,7 +6,7 @@ These few weeks, I was tinkering with kaboomjs and working on my project that I 
 
 
 ## Kaboomjs (Day 3) 
-* `onKeyPress()` --> 
+* `onKeyPress()` --> helps move anywhere when you click on any keys
 * `onKeyDown()`--> helps the sprite move up, left, down, or right
 * `onMouseDown()` --> helps move the sprite to the place you clicked
 * `onClick()` --> when you click on the sprite, it can help make a sound or open something
@@ -14,7 +14,7 @@ These few weeks, I was tinkering with kaboomjs and working on my project that I 
 * `const y = rand(0, height())` --> Helps move the sprite in different places vertically.
 
 ## Game 
-In the beginning, when I was trying to make my sprite interactive, I was really confused what was the difference between `onKeyDown()` and `onKeyPress()`. In addition, I tried it in kaboomjs playground and learned that onkeyDown() helps the sprite go to different directions, while onKeyPress() helps the sprite move anywhere when you click on any keys. 
+In the beginning, when I was trying to make my sprite interactive, I was really confused what was the difference between `onKeyDown()` and `onKeyPress()`. In addition, I tried it in kaboomjs playground and learned that `onkeyDown()` helps the sprite go to different directions, while `onKeyPress()` helps the sprite move anywhere when you click on any keys. 
 
 First, I started making the sprite move in random places. I used 
 ```JS
@@ -35,7 +35,7 @@ onKeyDown("left", () => {
 ```
 When I run it, it said that tree was not defined 
 
-In addition, I learned that you need to add a sprite before calling the sprite. 
+In addition, I looked at different examples in kaboomjs playground and learned that when using `onKeyDown()`, you need to add the sprite first before calling the sprite. 
 ``` JS
 const player = add([
 	sprite("tree")
@@ -55,9 +55,9 @@ Lastly, I tried using `onClick()`, where when you click on the object, it create
 ``` JS
 onClick(("door") => go("game"))
 ```
-When you click on door, it goes back to the first level.
+In this code, when you click on door, it goes back to the first level.
 ## Skills 
-
+Some skills I learned is debugging, problem decomposition, and time management. 
 ## EDP
 
 
