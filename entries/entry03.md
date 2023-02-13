@@ -57,7 +57,7 @@ onClick(("door") => go("game"))
 ```
 In this code, when you click on door, it goes back to the first level.
 ## Skills 
-Some skills I learned is debugging, problem decomposition, and time management. 
+Some skills I learned is debugging, problem decomposition, and time management.
 ## EDP
 
 
