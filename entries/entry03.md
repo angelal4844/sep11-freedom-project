@@ -28,7 +28,9 @@ When I run the game, the mushrooms were moving in different places.
 
 (Second Time) </br>
 
-<img width="616" alt="Screen Shot 2023-02-12 at 2 52 43 PM" src="https://user-images.githubusercontent.com/91750609/218362951-dd4cb0f6-4389-4a38-a009-1fdb60bebd8c.png"> </br>
+<img width="616" alt="Screen Shot 2023-02-12 at 2 52 43 PM" src="https://user-images.githubusercontent.com/91750609/218362951-dd4cb0f6-4389-4a38-a009-1fdb60bebd8c.png"> 
+
+</br>
 
 Then, I tried using `onKeyDown()`
 ``` JS
