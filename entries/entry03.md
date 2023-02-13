@@ -24,9 +24,9 @@ const y = rand(0, height())
 When I run the game, the mushrooms were moving in different places.
 
 (First time)
-
+<img width="732" alt="Screen Shot 2023-02-12 at 2 53 02 PM" src="https://user-images.githubusercontent.com/91750609/218362868-fba16bc0-0592-454b-8bd8-08ce16b43359.png">
 (Second Time)
-
+<img width="616" alt="Screen Shot 2023-02-12 at 2 52 43 PM" src="https://user-images.githubusercontent.com/91750609/218362951-dd4cb0f6-4389-4a38-a009-1fdb60bebd8c.png">
 Then, I tried using `onKeyDown()`
 ``` JS
 onKeyDown("left", () => {
@@ -34,7 +34,7 @@ onKeyDown("left", () => {
 })
 ```
 When I run it, it said that tree was not defined 
-
+<img width="468" alt="Screen Shot 2023-02-12 at 2 50 08 PM" src="https://user-images.githubusercontent.com/91750609/218362979-9d8dae67-fb17-4046-b5d5-bf5efe8efb44.png">
 In addition, I looked at different examples in kaboomjs playground and learned that when using `onKeyDown()`, you need to add the sprite first before calling the sprite. 
 ``` JS
 const player = add([
