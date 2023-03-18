@@ -8,18 +8,38 @@ These few days, me and my partner was building and planning out our mvp for our 
 In the beginning, me and partner decided to plan out all the sprite, background and blocks before starting to build the MVP. 
 * In the first level, we decided to create a cute background, where the sprite needs to escape from all the wishing glass through finding all the ingredients of a pizza. 
 
-* Ingredients
-    * 
-    * 
+* Ingredients (Pizza)
+    * Bread
+    * Tomato Sauce 
+    * Cheese
+    * Menu 
 
 ![IMG_3620](https://user-images.githubusercontent.com/91750609/226145474-27511365-5e5f-4d21-86a9-1c9263eadb9f.jpg)
 
 
 * In the second level, we decided to create a dark background, where the sprite needs to escape from the Queen of spiders through finding all the ingredients for a cake. 
+
+* Ingredients (Cake)
+    * Flour 
+    * Egg
+    * Sugar 
+    * Frosting 
+    * Menu
+
 ![IMG_3619](https://user-images.githubusercontent.com/91750609/226145479-87817f75-103b-4125-a501-ccfff63c2fd3.jpg)
 
 ### Building our game (MVP)
 
+* When me and my partner started building the MVP for our adventure game, we decided to build both level first before making it interactive. We first create the background and blocks by drawing out all the images. 
+
+* Level 1 
+    * I first started putting the background in each level 
+
+
+### Skills 
+
+
+### EDP
 
 
 
