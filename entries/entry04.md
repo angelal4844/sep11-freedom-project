@@ -12,8 +12,11 @@ In the beginning, me and partner decided to plan out all the sprite, background 
     * 
     * 
 
+![IMG_3620](https://user-images.githubusercontent.com/91750609/226145474-27511365-5e5f-4d21-86a9-1c9263eadb9f.jpg)
+
 
 * In the second level, we decided to create a dark background, where the sprite needs to escape from the Queen of spiders through finding all the ingredients for a cake. 
+![IMG_3619](https://user-images.githubusercontent.com/91750609/226145479-87817f75-103b-4125-a501-ccfff63c2fd3.jpg)
 
 ### Building our game (MVP)
 
