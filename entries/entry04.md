@@ -17,7 +17,7 @@ In the beginning, me and partner decided to plan out all the sprite, background 
 ![IMG_3620](https://user-images.githubusercontent.com/91750609/226145474-27511365-5e5f-4d21-86a9-1c9263eadb9f.jpg)
 
 
-* In the second level, we decided to create a dark background, where the sprite needs to escape from the Queen of spiders through finding all the ingredients for a cake. 
+* In the second level, we decided to create a dark background, where the sprite needs to escape from the Queen of spiders through finding all the ingredients of a cake. 
 
 * Ingredients (Cake)
     * Flour 
@@ -62,7 +62,7 @@ loadSprite("tomato", "img/tomato.png"); // tomato
 <img width="48" alt="tomato" src="https://user-images.githubusercontent.com/91750609/226153540-eb42273e-590b-4f7f-a132-3b25b3b78589.png">
 
 
-    * After we finish loading all the sprite, we created a background for level 2.
+* After we finish loading all the sprite, we created a background for level 2.
 ```JS
 add ([
 sprite("background2", {width: width()), height: height())}) // background for level 2
@@ -108,10 +108,10 @@ const level = addLevel (LEVELS[levelIdx]){
 } 
 ```
 ### Skills 
-Some skills I learned was debugging, collaboration, and creativity. During my journey in making my game 
+Some skills I learned was debugging, collaboration, and creativity. During my journey in making my game, I learn debugging through finding my mistakes and learning from my mistake when I was making my level. In addition, another skill I learned is colloration. Me and my partner were working collaboratively in planning and building our MVP. In addition, I also learned creativity by planning out what background, sprite, and the type of game I want to make. 
 
 ### EDP
-
+Last blog, I was on stage 2, research the problem. This blog, I am currently on stage 3, brainstorm possible solutions, stage 4, plan the most promising solution, and stage 5, creating a protoype. These few weeks, me and my partner was planning our MVP for our adventure game. In addition, me and partner also started builidng the levels for our MVP. 
 
 
 [Previous](entry03.md) | [Next](entry05.md)
