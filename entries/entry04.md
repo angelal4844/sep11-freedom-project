@@ -38,15 +38,29 @@ In the beginning, me and partner decided to plan out all the sprite, background 
 //Loading the Sprite
 loadSprite("background2", "img/background2.png"); // bakcground2
 loadSprite("block", "img/block.png"); // block
-image
+```
+<img width="70" alt="block" src="https://user-images.githubusercontent.com/91750609/226153521-1141f78b-6bae-4678-9153-df53572bb429.png">
+
+```JS 
 loadSprite("egg", "img/egg.png"); // egg
-image
+```
+<img width="54" alt="egg" src="https://user-images.githubusercontent.com/91750609/226153531-49aa0ffe-4281-4e0d-8b2b-ae35663cc8e3.png">
+
+```JS
 loadSprite("cheese", "img/cheese.png"); // cheese
-image
+```
+<img width="60" alt="cheese" src="https://user-images.githubusercontent.com/91750609/226153533-a207cfea-d1f4-4856-a4c2-a89ba22c62f3.png">
+
+```JS
 loadSprite("flour", "img/flour.png"); // flour
-image 
+```
+<img width="79" alt="flour" src="https://user-images.githubusercontent.com/91750609/226153539-6d75af7d-023b-4ace-9596-d1a2f83e8f40.png">
+
+```JS
 loadSprite("tomato", "img/tomato.png"); // tomato
-image
+```
+<img width="48" alt="tomato" src="https://user-images.githubusercontent.com/91750609/226153540-eb42273e-590b-4f7f-a132-3b25b3b78589.png">
+
 
     * After we finish loading all the sprite, we created a background for level 2.
 ```JS
@@ -54,7 +68,8 @@ add ([
 sprite("background2", {width: width()), height: height())}) // background for level 2
 ])
 ```
-Image 
+<img width="446" alt="background2" src="https://user-images.githubusercontent.com/91750609/226153545-9448cf75-d73c-4f31-beb4-30e213a724df.png">
+
 In addition, we also created a level for level 2
 * In the beginning, we first created a small level to see if it works 
 ```JS
@@ -75,6 +90,7 @@ When I preview it, it wasn't working.
 
 
 
+<img width="1437" alt="Screen Shot 2023-03-18 at 11 16 34 PM" src="https://user-images.githubusercontent.com/91750609/226153554-83ac03f0-a92c-4d64-b77f-9f6672990e69.png">
 
 
 
