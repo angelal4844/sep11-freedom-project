@@ -73,30 +73,42 @@ sprite("background2", {width: width()), height: height())}) // background for le
 In addition, we also created a level for level 2
 * In the beginning, we first created a small level to see if it works 
 ```JS
-"@  ^ $$",
-	"=======",
+const level = addLevel (LEVELS[levelIdx]){ 
+"=======",
 ], {
 	width: 64,
 	height: 64,
 
 	"=": () => [
-		sprite("grass"),
+		sprite("block"),
 		area(),
 		solid(),
 		origin("bot"),
+}
 ```
 When I preview it, it wasn't working.
-``` JS 
-
-
-
 <img width="1437" alt="Screen Shot 2023-03-18 at 11 16 34 PM" src="https://user-images.githubusercontent.com/91750609/226153554-83ac03f0-a92c-4d64-b77f-9f6672990e69.png">
 
+In the beginning, I was confused what I did wrong. In addition, I tried to look at examples of what `levelIdx` is. In addition, I learned that `levelIdx` are argument in a scene. 
+In addition, I tried creating a scene for my level and it worked! 
+``` JS
+scene("game", ({levelIdx}) => {
+const level = addLevel (LEVELS[levelIdx]){ 
+"=======",
+], {
+	width: 64,
+	height: 64,
 
-
-
+	"=": () => [
+		sprite("block"),
+		area(),
+		solid(),
+		origin("bot"),
+    }
+} 
+```
 ### Skills 
-
+Some skills I learned was debugging, collaboration, and creativity. During my journey in making my game 
 
 ### EDP
 
