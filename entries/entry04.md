@@ -32,8 +32,51 @@ In the beginning, me and partner decided to plan out all the sprite, background 
 
 * When me and my partner started building the MVP for our adventure game, we decided to build both level first before making it interactive. We first create the background and blocks by drawing out all the images. 
 
-* Level 1 
-    * I first started putting the background in each level 
+* Levels 1 and 2 
+    * We first load all the sprite for level 1 and 2 
+```JS
+//Loading the Sprite
+loadSprite("background2", "img/background2.png"); // bakcground2
+loadSprite("block", "img/block.png"); // block
+image
+loadSprite("egg", "img/egg.png"); // egg
+image
+loadSprite("cheese", "img/cheese.png"); // cheese
+image
+loadSprite("flour", "img/flour.png"); // flour
+image 
+loadSprite("tomato", "img/tomato.png"); // tomato
+image
+
+    * After we finish loading all the sprite, we created a background for level 2.
+```JS
+add ([
+sprite("background2", {width: width()), height: height())}) // background for level 2
+])
+```
+Image 
+In addition, we also created a level for level 2
+* In the beginning, we first created a small level to see if it works 
+```JS
+"@  ^ $$",
+	"=======",
+], {
+	width: 64,
+	height: 64,
+
+	"=": () => [
+		sprite("grass"),
+		area(),
+		solid(),
+		origin("bot"),
+```
+When I preview it, it wasn't working.
+``` JS 
+
+
+
+
+
 
 
 ### Skills 
