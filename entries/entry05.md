@@ -108,11 +108,18 @@ After we finish making the sprite collide, we started connecting all the scenes 
 * scene 1(Level 1) --> ("win")
     * when the sprite collides with the door in the first level, it goes to the second level.
 ``` JS
-
+ player.collides('mouse-1', (e) => {
+    go('win')
+  })
 ```
 * scene 2 (Level 2) --> ("win-2")
     * When the sprite collides with the door in the second level, it goes to the scene that said "win-2"
 ```JS
+player.collides('door-4', (k) => {
+  if (score == 4) {
+    go("win-2")
+  }
+  })
 ```
 
 * scene 3 (Spike) --> ("lose")
