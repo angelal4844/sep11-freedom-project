@@ -88,7 +88,8 @@ onKeyDown("down", () => {
 	player.move(0, SPEED)
 })
 ```
-When the player presses the right, left or down arrow, the sprite moves left, right, or down. However, when I was making the sprite jump, it didn't work. It said that `player.jump is not a function`. 
+* When the player presses the right, left or down arrow, the sprite moves left, right, or down. However, when I was making the sprite jump, it didn't work. It said that `player.jump is not a function`. 
+
 <img width="351" alt="Screen Shot 2023-04-22 at 5 17 43 PM" src="https://user-images.githubusercontent.com/91750609/233821311-f50baaf0-116c-48bc-b17f-60b9b3109f12.png">
 
 ``` JS
