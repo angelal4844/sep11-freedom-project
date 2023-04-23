@@ -6,6 +6,8 @@ These few weeks, we were continuing on builidng our MVP for our adventure game. 
 
 ### MVP
 In the last blog, we were loading all the sprite and creating the background. In this blog, we started builidng the first and second level of our game. First, we created a scene for level 1 and 2 using ` scene(" ", () => {}`.In the first level, we decided to make a easy level, where the sprite collects all the food on the table without touching the evil mouse. 
+<img width="1426" alt="Screen Shot 2023-04-23 at 1 18 21 AM" src="https://user-images.githubusercontent.com/91750609/233821278-e078a218-3ab2-4ba3-a83d-3ddda1b52e40.png">
+
 ``` JS
 addLevel([
               
@@ -42,9 +44,12 @@ addLevel([
 
  ``` 
 In addition, in the second level, we decided to create a harder level by adding spike inside the level. 
+
+<img width="1440" alt="Screen Shot 2023-04-23 at 1 20 06 AM" src="https://user-images.githubusercontent.com/91750609/233821426-34563f77-ca65-41c8-9e98-4bcadc5c7f2e.png">
+
 ``` JS
 addLevel([
-		            "  -                   ",
+		"  -                   ",
                 "  ^ =                 ",
                 "xxxxxxx          %    ",
                 "x      x    xxxxxxxxxx",
@@ -84,6 +89,8 @@ onKeyDown("down", () => {
 })
 ```
 When the player presses the right, left or down arrow, the sprite moves left, right, or down. However, when I was making the sprite jump, it didn't work. It said that `player.jump is not a function`. 
+<img width="351" alt="Screen Shot 2023-04-22 at 5 17 43 PM" src="https://user-images.githubusercontent.com/91750609/233821311-f50baaf0-116c-48bc-b17f-60b9b3109f12.png">
+
 ``` JS
 (Before)
  onKeyPress("space", () => {
@@ -113,7 +120,8 @@ After we finish making the sprite collide, we started connecting all the scenes 
   })
 ```
 * scene 2 (Level 2) --> ("win-2")
-    * When the sprite collides with the door in the second level, it goes to the scene that said "win-2"
+	* When the sprite collides with the door in the second level, it goes to the scene that said "win-2"
+<img width="1217" alt="Screen Shot 2023-04-23 at 1 21 41 AM" src="https://user-images.githubusercontent.com/91750609/233821331-5c2e9f68-56ee-4ed4-a760-701fe0385adf.png">
 ```JS
 player.collides('door-4', (k) => {
   if (score == 4) {
@@ -124,6 +132,8 @@ player.collides('door-4', (k) => {
 
 * scene 3 (Spike) --> ("lose")
     * When the sprite jump into the spike, it will go to the scene called "lose". 
+ <img width="1379" alt="Screen Shot 2023-04-23 at 1 20 23 AM" src="https://user-images.githubusercontent.com/91750609/233821371-2e842d4f-1a63-4ca6-9de1-2738ca492c50.png">
+
 ``` JS
 scene("lose", () => {
   // background 
@@ -139,7 +149,9 @@ scene("lose", () => {
     go("win")
   })
   ```
-  Lastly, after we finish connecting all the scenes, we started to create the scoreboard for the sprite. First, we created a variable called score, where score = 0 (initial number). 
+  Lastly, after we finish connecting all the scenes, we started to create the scoreboard for the sprite. First, we created a variable called score, where `score = 0` (initial number). 
+ <img width="1431" alt="Screen Shot 2023-04-23 at 1 18 35 AM" src="https://user-images.githubusercontent.com/91750609/233821409-2df89b21-0b3e-4ab3-a974-b0182b18aa90.png">
+  
   ``` JS
   let score = 0
       const scoreLabel = add ([
@@ -155,7 +167,7 @@ player.collides('egg', (e) => {
   scoreLabel.text = score.value
 })
 ```
-In addition, I tried deleting the `.value` because I didn't give a value for the score. 
+In addition, I tried deleting the `.value` because the score changes everytime you collide with the sprite (the value is not constant). 
 When I refresh it, it worked!
 ``` JS
 player.collides('egg', (e) => {
