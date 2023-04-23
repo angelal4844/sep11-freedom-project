@@ -5,7 +5,7 @@
 These few weeks, we were continuing on builidng our MVP for our adventure game. We started to create the levels, sprite, character and making the sprite move around. In addition, we also made different scenes to make the sprite go to a different level. 
 
 ### MVP
-In the last blog, we were loading all the sprite and creating the background. In this blog, we started builidng the first and second level of our game. First, we created a scene for level 1 and 2 using ` scene(" ", () => {}`.In the first level, we decided to make a easy level, where the sprite collects all the food on the table wothout touching the evil mouse. 
+In the last blog, we were loading all the sprite and creating the background. In this blog, we started builidng the first and second level of our game. First, we created a scene for level 1 and 2 using ` scene(" ", () => {}`.In the first level, we decided to make a easy level, where the sprite collects all the food on the table without touching the evil mouse. 
 ``` JS
 addLevel([
               
