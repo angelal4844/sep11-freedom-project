@@ -63,7 +63,22 @@ When the player presses the right, left or down arrow, the sprite moves left, ri
 		player.jump();
 });
 ```
-After watching a tutorial on how to make the sprite jump, I learned that you need to 
+After watching a tutorial on how to make the sprite jump, I learned that you need to create a `JUMP_FORCE` on how high you want the sprite to jump when the player presses space. 
+``` JS
+(After)
+const JUMP_FORCE = 500
+onKeyPress("space", () => {
+		player.jump(JUMP_FORCE);
+});
+```
+After we finish making the sprite move, we started to make the food disappear when we touch the sprite. We used `player.collides() => {}`, where when the sprite touches the bread, the bread disappear. 
+``` JS
+player.collides('bread', (b) => {
+        destroy(b)
+``` 
+
+
+
 
 
 [Previous](entry04.md) | [Next](entry06.md)
