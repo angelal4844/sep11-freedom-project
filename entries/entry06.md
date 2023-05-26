@@ -7,7 +7,7 @@ These few weeks, we were starting our expo elevator pitch and In-class presentat
 ### Takeaways from doing the project
 * Takeaways
     * Some takeaways when doing the project were watching tutorials, collobration, and using `console.log()`. In semester 1, me and my partner were in the same class, which made it easier to collobrate the work and helping each other in class every Monday on our adventure game. However in semester 2, we were in different classes for SEP, that had made it difficult for us to collobrate in class. However, through collobration and communicating through message and voice call, we were able to plan out who is doing 
-    
+
 
 ### Expo Elevator Pitch 
 * Takeaways 
@@ -21,6 +21,11 @@ Some skills I learned is
 
 ### EDP 
 
+
+Link to my slides:[Adventure Game Slide]()
+Link to my preview:[Adventure Game]()
+Link to my notes:[Notes]() 
+Link to my code:[Code to our Adventure Game]() 
 
 
 [Previous](entry05.md) | [Next](entry07.md)
