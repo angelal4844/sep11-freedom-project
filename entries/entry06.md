@@ -22,10 +22,10 @@ Some skills I learned is
 ### EDP 
 
 
-Link to my slides:[Adventure Game Slide]()
-Link to my preview:[Adventure Game]()
-Link to my notes:[Notes]() 
-Link to my code:[Code to our Adventure Game]() 
+* Link to my slides:[Adventure Game Slide]()
+* Link to my preview:[Adventure Game]()
+* Link to my notes:[Notes]() 
+* Link to my code:[Code to our Adventure Game]() 
 
 
 [Previous](entry05.md) | [Next](entry07.md)
