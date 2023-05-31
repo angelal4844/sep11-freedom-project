@@ -4,18 +4,23 @@
 ### Context 
 These few weeks, we were starting our expo elevator pitch and In-class presentation. A Expo elevator pitch is when you present your project to the judges in 1 minute. In addition, In-Class presentation is when you present your project in class. Through the journey in the expo elevator pitch and In-class presentation, there were many takeaways and things I could improve on for my future presentations. 
 
-### Takeaways from doing the project
+### Takeaways from doing our freedom project
 * Takeaways
-    * Some takeaways when doing the project were watching tutorials, collobration, and using `console.log()`. In semester 1, me and my partner were in the same class, which made it easier to collobrate the work and helping each other in class every Monday on our adventure game. However in semester 2, we were in different classes for SEP, that had made it difficult for us to collobrate in class. However, through collobration and communicating through message and voice call, we were able to plan out who is doing 
-
+    * One takeaway when doing the project were collobration. In semester 1, me and my partner were in the same class, which made it easier to collobrate the work and helping each other in class every Monday on our adventure game. However in semester 2, we were in different classes for SEP, that had made it difficult for us to collobrate together in class. 
+<br></br>
+    * Another takeaway was using console.log() and tutorials. Using console.log() and tutorials had helpe
 
 ### Expo Elevator Pitch 
 * Takeaways 
     * Some takeaways during the expo elevator pitch is 
 
+* Grow (Improvements) 
+    * 
+
+
 ### In-class Presentation 
 * Takeaways 
-    * Some 
+    * Some takeaways during our In-class presentation is 
 ### Skills 
 Some skills I learned is 
 
