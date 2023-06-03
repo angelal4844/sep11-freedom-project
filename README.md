@@ -2,16 +2,16 @@
 by Angela Lu
 
 ## Context
-The "Freedom Project" for SEP11 is all about Javascript. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about Javascript. The purpose of this blog is .
 
 ## Content
 For my project, I am making a adventure game. This blog will walk through my process of independently studying X in order to make X.
 
 ## Links
 
-Product
+Link to my adventure game: [Adventure Game](https://freedom-project-adventure.jessicay1464.repl.co)
 
-Presentation
+Link to my presentation: [Adventure Game Slide](https://docs.google.com/presentation/d/1qWAJZ0HSZEKE1pYdl3ibgjXLEhHsqzs6QJ_AO9F9LzM/edit#slide=id.g243388383f6_0_2241)
 
 ## Implications
 X
