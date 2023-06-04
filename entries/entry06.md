@@ -43,7 +43,7 @@ body(),
 
 ### Expo Elevator Pitch 
 * Takeaways 
-    * Some takeaways during the expo elevator pitch is showing the code and the preview. 
+    * Some takeaways during the expo elevator pitch is commenting and praticing our elevator pitch. Praticing our elevator pitch had made us less nervous when presenting to the judge. In addition, it helped us prepare for what we want to say in 1 minute when presenting our project. Commenting had made us easier to find the code, show our challenges and how we made the game.
 
 * Things I need to improve on  
     * More eye contact 
@@ -57,11 +57,10 @@ body(),
     * Speaking more loudly 
 
 ### Skills 
-Some skills I learned is debugging, communication, and collobration. When
+Some skills I learned is debugging, communication, and collobration. When we were working on the slides for our presentation, we faced many challenges, like syntax errors. In addition, through debugging, we watched tutorials and used `console.log()` to help us find the mistake as well as learning new things. Communication and collobration had helped us organize what we are going to say during the presentation as well as working together on the slides and our beyond MVP. 
 
-### EDP 
-
-Last blog, I was in stage 5, creating a prototype and stage 6, test and evaluate the prototype. This blog I am in stage 7
+### EDP
+Last blog, I was in stage 5, creating a prototype and stage 6, test and evaluate the prototype. This blog I am in stage 7, improve as needed and stage 8, communicate the results. After we finish with our MVP, we were working on our beyond MVP, where we changed the gravity of the sprite, so that the sprite is not floating when it jumps. In addition, after we finish with the beyond MVP, we started with our In-class Presentation and Expo Elevator Pitch, where we show our project that we made this year to judges and our classmates. 
 
 
 * Link to my slides:[Adventure Game Slide](https://docs.google.com/presentation/d/1qWAJZ0HSZEKE1pYdl3ibgjXLEhHsqzs6QJ_AO9F9LzM/edit#slide=id.g2447a0d25f7_0_0)
