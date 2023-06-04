@@ -14,7 +14,7 @@ Link to my adventure game: [Adventure Game](https://freedom-project-adventure.je
 Link to my presentation: [Adventure Game Slide](https://docs.google.com/presentation/d/1qWAJZ0HSZEKE1pYdl3ibgjXLEhHsqzs6QJ_AO9F9LzM/edit#slide=id.g243388383f6_0_2241)
 
 ## Implications
-The adventure game we created is a fun and relaxing game, where you collect different food in order to go to the next level. 
+The adventure game we created is a fun and relaxing game, where you collect different food in order to go to the next level.
 
 ---
 
