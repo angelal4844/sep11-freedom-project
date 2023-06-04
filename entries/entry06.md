@@ -5,7 +5,7 @@
 These few weeks, we were working on our beyond MVP and starting our expo elevator pitch and In-class presentation. A Expo elevator pitch is when you present your project to the judges in 1 minute. In addition, In-Class presentation is when you present your project in class. Through the journey in the expo elevator pitch and In-class presentation, there were many takeaways and things I could improve on for my future presentations. 
 
 ### Beyond MVP 
-After we finish builidng the MVP, we started builidng the Beyond MVP. For our beyond MVP, we decided to changed the gravity of the sprite, so that the sprite would not be flying when the sprite jump. 
+After we finish building the MVP, we started builidng the Beyond MVP. For our beyond MVP, we decided to changed the gravity of the sprite, so that the sprite would not be flying when the sprite jump. 
 In the beginning, the gravity was 900. When the sprite jumps, we notice that the sprite was floating and landing on the ground very slow. 
 ```JS
 gravity(900)
